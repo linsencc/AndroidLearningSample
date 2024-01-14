@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearningSample</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="first_text">first text</string>
+    <string name="second_text">second text</string>
+    <string name="third_text">third text</string>
+</resources>
